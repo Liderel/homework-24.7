@@ -8,3 +8,5 @@
 Папка tests:
 1. images - папка с изображениями для проведения тестирования
 2. test_pet_friends.py - файл с тестами и небольшим описанием к ним
+
+Для работы потребуется установить библиотеки requests / requests_toolbelt / json / os / python dotenv
